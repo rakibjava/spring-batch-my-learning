@@ -6,5 +6,4 @@ setup job, step, reader,writer, and processor listener
 
 write to csv flat file: /output folder
 
-Define in memory JobRepository for batch metadata:
- 
+Define in memory JobRepository for batch metadata:  http://localhost:9180/h2/
