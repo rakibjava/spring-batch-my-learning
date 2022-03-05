@@ -1,3 +1,5 @@
+http://localhost:9180/rwfile/job
+
 Read csv flat file: /input/employees.csv
 
 process the file: Convert one object to another: employee to employeeInfo
